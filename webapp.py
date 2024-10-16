@@ -37,7 +37,7 @@ def sigmoid(x):
 ############################################################### CARREGANDO VARIÁVEIS ÚTEIS
     
 # carregando dados de referência
-dados = pd.read_excel("dados\dados_escores_processados.xlsx")
+dados = pd.read_excel("dados/dados_escores_processados.xlsx")
 dados_completos = dados.copy()
 escores = [col for col in dados.columns if col not in ["Ponto", "PontoID", "Data", "Campo", "Equipe",
                                                        "Especie01", "Avaliador"]]
