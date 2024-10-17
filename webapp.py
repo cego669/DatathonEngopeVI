@@ -311,6 +311,6 @@ elif section == "Análise de Discordância entre Avaliadores":
 
     st.markdown(f"""
         
-        <h4 style='text-align: center;'>Evolução temporal do desvio-padrão entre os valores de escore dos avaliadores</h4>""", unsafe_allow_html=True)
+        <h4 style='text-align: center;'>Evolução temporal do desvio-padrão entre os valores de escore dos avaliadores para cada ponto</h4>""", unsafe_allow_html=True)
     # mostrando imagem salva
     st.image("discordancia_temporal.jpg")
