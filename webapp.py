@@ -295,6 +295,8 @@ elif section == "Análise de Discordância entre Avaliadores":
     st.plotly_chart(fig)
 
 
+    st.markdown(f"""
+        <h4 style='text-align: center;'>Boxplot da diferença entre o escores máximo e mínimo para um escore considerando as diferentes classes de pastagem</h4>""", unsafe_allow_html=True)
     y_col = st.selectbox("Variável do eixo y:", [escore + "_max_min_diff" for escore in escores])
     x_col = st.selectbox("Variável do eixo x:", ["CLASS_DED", "y_pred_class"])
     fig = px.box(dados, x=x_col, y=y_col)
