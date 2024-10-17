@@ -83,7 +83,10 @@ section = st.sidebar.selectbox("Section:", ["Predição da Degradação de Pasta
 
 # texto da aba
 st.sidebar.markdown("""               
-
+Bem-vindo ao nosso aplicativo web desenvolvido para o primeiro Datathon do Engope! Aqui, você encontrará uma solução interativa e visual para análise de dados sobre a classificação de de degradação de pastagens. Nosso objetivo é proporcionar uma maneira prática e eficiente de explorar essas informações de maneira detalhada.
+Utilizamos gráficos intuitivos e interativos, que facilitam a compreensão das características principais dos dados de pastagem. Além disso, disponibilizamos um mapa interativo que apresenta a posição e a classificação das pastagens, permitindo uma visualização geográfica clara e objetiva.
+Outro destaque é o nosso modelo de predição, que prediz se a pastagem está degradada ou não. E para garantir a consistência das análises, incluímos uma breve avaliação da concordância entre os avaliadores, oferecendo uma visão sobre a qualidade das classificações.
+Explore nosso aplicativo e descubra como esses recursos podem facilitar o entendimento e a exploração dos dados de pastagem!
 """, unsafe_allow_html=True)
 
 ###################################### SEÇÃO: "Predição da Degradação de Pastagens"
