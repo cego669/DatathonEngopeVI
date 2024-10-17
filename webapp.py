@@ -289,7 +289,7 @@ elif section == "Análise de Discordância entre Avaliadores":
     dados["y_pred"] = y_pred
     dados["y_pred_class"] = dados["y_pred"].map({1: "DEGRADADA", 0: "NÃO DEGRADADA"})
 
-    dados_temp = dados.melt(id_vars=["Ponto", "y_pred_class", "CLASS_DED"], value_vars=[escore + "_max_min_diff" for escore in escores])
+    dados_temp = dados[dados["DispFolhVerd_max_min_diff"] <= 6].melt(id_vars=["Ponto", "y_pred_class", "CLASS_DED"], value_vars=[escore + "_max_min_diff" for escore in escores])
 
     fig = px.box(dados_temp, x="variable", y="value")
     st.plotly_chart(fig)
