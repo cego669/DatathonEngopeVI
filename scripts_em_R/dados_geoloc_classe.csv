@@ -1,0 +1,461 @@
+PontoID,Ponto,LON,LAT,REGIAO,UF,ESTADO,gridM_ID,gridG_ID,LOCCLASS,CLASS_DED
+750,M1001-E1-P1,-50.832922,-15.398786,Centro-Oeste,GO,Goiás,M1001,G15,outside,Degradação Moderada
+748,M1001-E1-P3,-50.76986,-15.478017,Centro-Oeste,GO,Goiás,M1001,G15,inside,Degradação Baixa
+713,M1009-E3-P1,-50.814776,-16.118247,Centro-Oeste,GO,Goiás,M1009,G15,inside,Degradação Agrícola Severa
+708,M1009-E3-P2,-50.831664,-16.168822,Centro-Oeste,GO,Goiás,M1009,G15,inside,Degradação Baixa
+706,M1009-E3-P3,-50.822681,-16.188046,Centro-Oeste,GO,Goiás,M1009,G15,outside,Degradação Moderada
+705,M1009-E3-P4,-50.788635,-16.193076,Centro-Oeste,GO,Goiás,M1009,G15,inside,Degradação Baixa
+710,M1009-E3-P6,-50.78046,-16.160647,Centro-Oeste,GO,Goiás,M1009,G15,inside,Degradação Moderada
+711,M1009-E3-P7,-50.780371,-16.1593,Centro-Oeste,GO,Goiás,M1009,G15,inside,Degradação Moderada
+709,M1009-E3-P8,-50.769232,-16.163611,Centro-Oeste,GO,Goiás,M1009,G15,outside,Degradação Moderada
+712,M1009-E3-P9,-50.804535,-16.156515,Centro-Oeste,GO,Goiás,M1009,G15,outside,Degradação Moderada
+594,M1089-E3-P1,-50.682364,-17.27905,Centro-Oeste,GO,Goiás,M1089,G17,inside,Degradação Baixa
+595,M1089-E3-P2,-50.670776,-17.272312,Centro-Oeste,GO,Goiás,M1089,G17,outside,Não degradada
+598,M1089-E3-P3,-50.675268,-17.264227,Centro-Oeste,GO,Goiás,M1089,G17,inside,Degradação Baixa
+601,M1089-E3-P4,-50.678951,-17.263239,Centro-Oeste,GO,Goiás,M1089,G17,inside,Degradação Baixa
+599,M1089-E3-P5,-50.671674,-17.263868,Centro-Oeste,GO,Goiás,M1089,G17,inside,Degradação Moderada
+597,M1089-E3-P6,-50.671136,-17.264407,Centro-Oeste,GO,Goiás,M1089,G17,inside,Degradação Moderada
+596,M1089-E3-P7,-50.670597,-17.265755,Centro-Oeste,GO,Goiás,M1089,G17,inside,Degradação Baixa
+609,M1089-E3-P8,-50.680568,-17.213203,Centro-Oeste,GO,Goiás,M1089,G17,outside,Degradação Agrícola Severa
+610,M1089-E3-P9,-50.712638,-17.195237,Centro-Oeste,GO,Goiás,M1089,G17,outside,Degradação Baixa
+585,M1091-E1-P1,-50.75962,-17.435536,Centro-Oeste,GO,Goiás,M1091,G17,outside,Degradação Agrícola Severa
+588,M1091-E1-P2,-50.753062,-17.432302,Centro-Oeste,GO,Goiás,M1091,G17,inside,Degradação Moderada
+590,M1091-E1-P3,-50.750457,-17.431314,Centro-Oeste,GO,Goiás,M1091,G17,inside,Degradação Baixa
+587,M1091-E1-P4,-50.750457,-17.432662,Centro-Oeste,GO,Goiás,M1091,G17,inside,Degradação Baixa
+586,M1091-E1-P5,-50.750547,-17.434548,Centro-Oeste,GO,Goiás,M1091,G17,inside,Degradação Moderada
+589,M1091-E1-P6,-50.730514,-17.431404,Centro-Oeste,GO,Goiás,M1091,G17,inside,Degradação Biológica Severa
+592,M1091-E1-P7,-50.687665,-17.417749,Centro-Oeste,GO,Goiás,M1091,G17,outside,Não degradada
+602,M1159-E4-P1,-50.633227,-17.254795,Centro-Oeste,GO,Goiás,M1159,G17,inside,Não degradada
+600,M1159-E4-P2,-50.633227,-17.263688,Centro-Oeste,GO,Goiás,M1159,G17,inside,Degradação Moderada
+604,M1159-E4-P3,-50.654337,-17.236559,Centro-Oeste,GO,Goiás,M1159,G17,outside,Degradação Biológica Severa
+603,M1159-E4-P4,-50.65784,-17.239344,Centro-Oeste,GO,Goiás,M1159,G17,outside,Degradação Moderada
+605,M1159-E4-P5,-50.648857,-17.224791,Centro-Oeste,GO,Goiás,M1159,G17,inside,Degradação Moderada
+606,M1159-E4-P6,-50.659368,-17.224432,Centro-Oeste,GO,Goiás,M1159,G17,outside,Degradação Moderada
+607,M1159-E4-P7,-50.660985,-17.221557,Centro-Oeste,GO,Goiás,M1159,G17,inside,Degradação Moderada
+608,M1159-E4-P8,-50.665386,-17.216437,Centro-Oeste,GO,Goiás,M1159,G17,inside,Degradação Baixa
+570,M1163-E5-P1,-50.621818,-17.603611,Centro-Oeste,GO,Goiás,M1163,G17,inside,Degradação Moderada
+573,M1163-E5-P2,-50.598821,-17.586902,Centro-Oeste,GO,Goiás,M1163,G17,outside,Degradação Moderada
+571,M1163-E5-P3,-50.596755,-17.596335,Centro-Oeste,GO,Goiás,M1163,G17,inside,Degradação Moderada
+576,M1234-E6-P1,-50.567829,-17.567588,Centro-Oeste,GO,Goiás,M1234,G17,inside,Degradação Moderada
+577,M1234-E6-P2,-50.555792,-17.563366,Centro-Oeste,GO,Goiás,M1234,G17,outside,Degradação Baixa
+578,M1234-E6-P3,-50.535759,-17.55609,Centro-Oeste,GO,Goiás,M1234,G17,inside,Degradação Moderada
+579,M1234-E6-P4,-50.529831,-17.554293,Centro-Oeste,GO,Goiás,M1234,G17,inside,Degradação Moderada
+572,M1234-E6-P5,-50.505396,-17.587082,Centro-Oeste,GO,Goiás,M1234,G17,inside,Degradação Baixa
+574,M1234-E6-P6,-50.496144,-17.586363,Centro-Oeste,GO,Goiás,M1234,G17,inside,Degradação Moderada
+575,M1234-E6-P7,-50.500635,-17.576392,Centro-Oeste,GO,Goiás,M1234,G17,outside,Degradação Baixa
+683,M1369-E6-P1,-50.31145,-16.577196,Centro-Oeste,GO,Goiás,M1369,G25,inside,Degradação Baixa
+682,M1369-E6-P2,-50.311809,-16.581687,Centro-Oeste,GO,Goiás,M1369,G25,inside,Degradação Moderada
+676,M1369-E6-P3,-50.32232,-16.594713,Centro-Oeste,GO,Goiás,M1369,G25,inside,Degradação Baixa
+680,M1369-E6-P4,-50.337861,-16.587347,Centro-Oeste,GO,Goiás,M1369,G25,inside,Degradação Baixa
+679,M1369-E6-P6,-50.377746,-16.590042,Centro-Oeste,GO,Goiás,M1369,G25,outside,Degradação Moderada
+677,M1369-E6-P7,-50.376578,-16.591928,Centro-Oeste,GO,Goiás,M1369,G25,outside,Degradação Agrícola Severa
+1,M1491-E1-P1,-50.14598,-14.989783,Centro-Oeste,GO,Goiás,M1491,G23,inside,Degradação Biológica Severa
+13,M1491-E1-P13,-50.146789,-14.978913,Centro-Oeste,GO,Goiás,M1491,G23,outside,Degradação Biológica Severa
+3,M1491-E1-P3,-50.149574,-14.994095,Centro-Oeste,GO,Goiás,M1491,G23,inside,Degradação Biológica Severa
+6,M1491-E1-P6,-50.213444,-14.998047,Centro-Oeste,GO,Goiás,M1491,G23,inside,Degradação Moderada
+9,M1491-E1-P9,-50.147597,-14.993825,Centro-Oeste,GO,Goiás,M1491,G23,inside,Degradação Biológica Severa
+618,M1512-E5-P1,-50.161521,-16.918645,Centro-Oeste,GO,Goiás,M1512,G25,inside,Degradação Agrícola Severa
+620,M1512-E5-P2,-50.133314,-16.914064,Centro-Oeste,GO,Goiás,M1512,G25,outside,Degradação Baixa
+623,M1512-E5-P3,-50.171493,-16.903194,Centro-Oeste,GO,Goiás,M1512,G25,outside,Degradação Moderada
+617,M1512-E5-P4,-50.216588,-16.919813,Centro-Oeste,GO,Goiás,M1512,G25,inside,Degradação Agrícola Severa
+639,M1512-E5-P5,-50.191255,-16.855224,Centro-Oeste,GO,Goiás,M1512,G25,inside,Não degradada
+642,M1512-E5-P6,-50.21551,-16.847409,Centro-Oeste,GO,Goiás,M1512,G25,outside,Não degradada
+646,M1512-E5-P7,-50.206257,-16.835911,Centro-Oeste,GO,Goiás,M1512,G25,inside,Não degradada
+643,M1512-E5-P8,-50.147328,-16.842918,Centro-Oeste,GO,Goiás,M1512,G25,inside,Degradação Agrícola Severa
+16,M1680-E2-P16,-49.914754,-14.53299,Centro-Oeste,GO,Goiás,M1680,G23,inside,Degradação Biológica Severa
+17,M1680-E2-P17,-49.907568,-14.554729,Centro-Oeste,GO,Goiás,M1680,G23,inside,Degradação Biológica Severa
+18,M1680-E2-P18,-49.907568,-14.568922,Centro-Oeste,GO,Goiás,M1680,G23,inside,Degradação Moderada
+19,M1680-E2-P19,-49.923019,-14.50622,Centro-Oeste,GO,Goiás,M1680,G23,inside,Degradação Moderada
+20,M1680-E2-P20,-49.906579,-14.521761,Centro-Oeste,GO,Goiás,M1680,G23,inside,Degradação Baixa
+21,M1680-E2-P21,-49.898045,-14.502267,Centro-Oeste,GO,Goiás,M1680,G23,inside,Degradação Moderada
+23,M1680-E2-P23,-49.910173,-14.499393,Centro-Oeste,GO,Goiás,M1680,G23,inside,Degradação Baixa
+25,M1680-E2-P25,-49.928498,-14.524366,Centro-Oeste,GO,Goiás,M1680,G23,outside,Degradação Moderada
+26,M1680-E2-P26,-49.877743,-14.496967,Centro-Oeste,GO,Goiás,M1680,G23,outside,Degradação Moderada
+30,M1685-E3-P30,-49.871725,-15.000024,Centro-Oeste,GO,Goiás,M1685,G23,inside,Degradação Baixa
+31,M1685-E3-P31,-49.875318,-15.011253,Centro-Oeste,GO,Goiás,M1685,G23,inside,Não degradada
+32,M1685-E3-P32,-49.926612,-14.990502,Centro-Oeste,GO,Goiás,M1685,G23,inside,Degradação Agrícola Severa
+35,M1685-E3-P35,-49.922749,-15.026344,Centro-Oeste,GO,Goiás,M1685,G23,inside,Não degradada
+36,M1685-E3-P36,-49.941075,-15.018619,Centro-Oeste,GO,Goiás,M1685,G23,inside,Degradação Moderada
+37,M1685-E3-P37,-49.926252,-14.979812,Centro-Oeste,GO,Goiás,M1685,G23,inside,Degradação Agrícola Severa
+38,M1685-E3-P38,-49.916461,-15.002359,Centro-Oeste,GO,Goiás,M1685,G23,inside,Degradação Agrícola Severa
+39,M1685-E3-P39,-49.909544,-15.017451,Centro-Oeste,GO,Goiás,M1685,G23,inside,Degradação Agrícola Severa
+40,M1685-E3-P40,-49.881696,-14.999036,Centro-Oeste,GO,Goiás,M1685,G23,outside,Não degradada
+41,M1685-E3-P41,-49.860136,-14.999754,Centro-Oeste,GO,Goiás,M1685,G23,outside,Degradação Baixa
+42,M1685-E3-P42,-49.890589,-14.994813,Centro-Oeste,GO,Goiás,M1685,G23,outside,Degradação Baixa
+616,M1707-E4-P1,-49.886188,-16.925203,Centro-Oeste,GO,Goiás,M1707,G25,inside,Degradação Moderada
+615,M1707-E4-P2,-49.87415,-16.932749,Centro-Oeste,GO,Goiás,M1707,G25,inside,Degradação Moderada
+612,M1707-E4-P3,-49.869659,-16.967873,Centro-Oeste,GO,Goiás,M1707,G25,outside,Degradação Agrícola Severa
+611,M1707-E4-P4,-49.895171,-16.99608,Centro-Oeste,GO,Goiás,M1707,G25,inside,Degradação Moderada
+614,M1707-E4-P5,-49.906669,-16.965538,Centro-Oeste,GO,Goiás,M1707,G25,inside,Degradação Moderada
+613,M1707-E4-P6,-49.909095,-16.965627,Centro-Oeste,GO,Goiás,M1707,G25,inside,Degradação Moderada
+43,M1750-E5-P43,-49.817916,-15.185975,Centro-Oeste,GO,Goiás,M1750,G23,inside,Não degradada
+44,M1750-E5-P44,-49.825012,-15.1407,Centro-Oeste,GO,Goiás,M1750,G23,inside,Degradação Baixa
+45,M1750-E5-P45,-49.845494,-15.169805,Centro-Oeste,GO,Goiás,M1750,G23,inside,Degradação Baixa
+46,M1750-E5-P46,-49.821329,-15.146539,Centro-Oeste,GO,Goiás,M1750,G23,inside,Degradação Baixa
+48,M1750-E5-P48,-49.823575,-15.189299,Centro-Oeste,GO,Goiás,M1750,G23,inside,Degradação Agrícola Severa
+49,M1750-E5-P49,-49.7889,-15.205289,Centro-Oeste,GO,Goiás,M1750,G23,inside,Degradação Baixa
+50,M1750-E5-P50,-49.827168,-15.162259,Centro-Oeste,GO,Goiás,M1750,G23,inside,Degradação Moderada
+52,M1750-E5-P52,-49.814053,-15.192623,Centro-Oeste,GO,Goiás,M1750,G23,inside,Degradação Baixa
+54,M1750-E5-P54,-49.837858,-15.175105,Centro-Oeste,GO,Goiás,M1750,G23,outside,Degradação Baixa
+699,M1825-E3-P1,-49.699069,-16.238621,Centro-Oeste,GO,Goiás,M1825,G25,inside,Degradação Baixa
+697,M1825-E3-P2,-49.699338,-16.251107,Centro-Oeste,GO,Goiás,M1825,G25,inside,Degradação Moderada
+696,M1825-E3-P3,-49.683168,-16.278237,Centro-Oeste,GO,Goiás,M1825,G25,outside,Não degradada
+703,M1825-E3-P4,-49.689546,-16.220655,Centro-Oeste,GO,Goiás,M1825,G25,outside,Degradação Moderada
+704,M1825-E3-P5,-49.700057,-16.202778,Centro-Oeste,GO,Goiás,M1825,G25,inside,Degradação Agrícola Severa
+700,M1825-E3-P6,-49.723952,-16.226134,Centro-Oeste,GO,Goiás,M1825,G25,inside,Degradação Moderada
+701,M1825-E3-P7,-49.744344,-16.222271,Centro-Oeste,GO,Goiás,M1825,G25,inside,Não degradada
+702,M1825-E3-P8,-49.7518,-16.220744,Centro-Oeste,GO,Goiás,M1825,G25,inside,Degradação Agrícola Severa
+698,M1825-E3-P9,-49.759076,-16.246526,Centro-Oeste,GO,Goiás,M1825,G25,inside,Não degradada
+674,M1892-E2-P1,-49.592708,-16.689036,Centro-Oeste,GO,Goiás,M1892,G25,inside,Degradação Moderada
+670,M1892-E2-P3,-49.605284,-16.722094,Centro-Oeste,GO,Goiás,M1892,G25,inside,Degradação Baixa
+669,M1892-E2-P4,-49.612471,-16.724789,Centro-Oeste,GO,Goiás,M1892,G25,inside,Degradação Moderada
+668,M1892-E2-P5,-49.627024,-16.739072,Centro-Oeste,GO,Goiás,M1892,G25,inside,Degradação Moderada
+672,M1892-E2-P6,-49.622442,-16.703768,Centro-Oeste,GO,Goiás,M1892,G25,inside,Degradação Moderada
+671,M1892-E2-P7,-49.643912,-16.717962,Centro-Oeste,GO,Goiás,M1892,G25,outside,Degradação Baixa
+57,M1928-E6-P57,-49.554979,-14.420521,Centro-Oeste,GO,Goiás,M1928,G23,inside,Degradação Moderada
+59,M1928-E6-P59,-49.563153,-14.405249,Centro-Oeste,GO,Goiás,M1928,G23,inside,Degradação Moderada
+60,M1928-E6-P60,-49.552553,-14.426,Centro-Oeste,GO,Goiás,M1928,G23,inside,Degradação Biológica Severa
+62,M1928-E6-P62,-49.560279,-14.400758,Centro-Oeste,GO,Goiás,M1928,G23,inside,Degradação Baixa
+63,M1928-E6-P63,-49.55435,-14.418095,Centro-Oeste,GO,Goiás,M1928,G23,inside,Degradação Moderada
+64,M1928-E6-P64,-49.56522,-14.401836,Centro-Oeste,GO,Goiás,M1928,G23,inside,Degradação Moderada
+65,M1928-E6-P65,-49.562255,-14.400219,Centro-Oeste,GO,Goiás,M1928,G23,inside,Não degradada
+66,M1928-E6-P66,-49.583725,-14.449087,Centro-Oeste,GO,Goiás,M1928,G23,outside,Degradação Biológica Severa
+68,M1928-E6-P68,-49.57555,-14.427258,Centro-Oeste,GO,Goiás,M1928,G23,outside,Degradação Moderada
+70,M1928-E6-P70,-49.578245,-14.45816,Centro-Oeste,GO,Goiás,M1928,G23,outside,Degradação Moderada
+71,M1934-E4-P71,-49.570879,-15.000832,Centro-Oeste,GO,Goiás,M1934,G23,inside,Degradação Agrícola Severa
+72,M1934-E4-P72,-49.533419,-15.002988,Centro-Oeste,GO,Goiás,M1934,G23,inside,Degradação Moderada
+73,M1934-E4-P73,-49.50656,-14.990861,Centro-Oeste,GO,Goiás,M1934,G23,inside,Não degradada
+74,M1934-E4-P74,-49.55956,-14.995981,Centro-Oeste,GO,Goiás,M1934,G23,inside,Degradação Moderada
+75,M1934-E4-P75,-49.501529,-14.989693,Centro-Oeste,GO,Goiás,M1934,G23,inside,Degradação Moderada
+76,M1934-E4-P76,-49.528928,-14.946125,Centro-Oeste,GO,Goiás,M1934,G23,inside,Não degradada
+79,M1934-E4-P79,-49.52776,-14.963911,Centro-Oeste,GO,Goiás,M1934,G23,inside,Não degradada
+80,M1934-E4-P80,-49.575011,-15.01817,Centro-Oeste,GO,Goiás,M1934,G23,inside,Não degradada
+82,M1934-E4-P82,-49.567376,-14.993466,Centro-Oeste,GO,Goiás,M1934,G23,outside,Degradação Baixa
+84,M1934-E4-P84,-49.502697,-15.006222,Centro-Oeste,GO,Goiás,M1934,G23,outside,Degradação Moderada
+655,M1954-E1-P1,-49.525334,-16.804739,Centro-Oeste,GO,Goiás,M1954,G25,inside,Degradação Moderada
+651,M1954-E1-P2,-49.57007,-16.818753,Centro-Oeste,GO,Goiás,M1954,G25,inside,Degradação Baixa
+657,M1954-E1-P3,-49.576808,-16.799798,Centro-Oeste,GO,Goiás,M1954,G25,outside,Degradação Baixa
+660,M1954-E1-P4,-49.574113,-16.789827,Centro-Oeste,GO,Goiás,M1954,G25,outside,Degradação Agrícola Severa
+659,M1954-E1-P5,-49.548691,-16.790905,Centro-Oeste,GO,Goiás,M1954,G25,inside,Não degradada
+661,M1954-E1-P6,-49.545996,-16.786503,Centro-Oeste,GO,Goiás,M1954,G25,outside,Degradação Baixa
+664,M1954-E1-P7,-49.584623,-16.768896,Centro-Oeste,GO,Goiás,M1954,G25,inside,Degradação Moderada
+666,M1954-E1-P8,-49.544918,-16.750211,Centro-Oeste,GO,Goiás,M1954,G25,inside,Não degradada
+667,M1954-E1-P9,-49.542941,-16.747696,Centro-Oeste,GO,Goiás,M1954,G25,inside,Degradação Agrícola Severa
+87,M2022-E1-P87,-49.428945,-17.456467,Centro-Oeste,GO,Goiás,M2022,G33,inside,Degradação Baixa
+88,M2022-E1-P88,-49.413943,-17.399154,Centro-Oeste,GO,Goiás,M2022,G33,inside,Degradação Moderada
+89,M2022-E1-P89,-49.416279,-17.396998,Centro-Oeste,GO,Goiás,M2022,G33,inside,Não degradada
+90,M2022-E1-P90,-49.43712,-17.371486,Centro-Oeste,GO,Goiás,M2022,G33,inside,Degradação Moderada
+92,M2022-E1-P92,-49.435054,-17.434907,Centro-Oeste,GO,Goiás,M2022,G33,inside,Degradação Baixa
+95,M2022-E1-P95,-49.432718,-17.389722,Centro-Oeste,GO,Goiás,M2022,G33,outside,Degradação Agrícola Severa
+96,M2022-E1-P96,-49.498295,-17.414336,Centro-Oeste,GO,Goiás,M2022,G33,outside,Degradação Moderada
+97,M2022-E1-P97,-49.469279,-17.408946,Centro-Oeste,GO,Goiás,M2022,G33,outside,Degradação Agrícola Severa
+98,M2022-E1-P98,-49.444216,-17.391788,Centro-Oeste,GO,Goiás,M2022,G33,outside,Degradação Moderada
+100,M2026-E2-P100,-49.489042,-17.762253,Centro-Oeste,GO,Goiás,M2026,G33,inside,Degradação Moderada
+101,M2026-E2-P101,-49.481497,-17.73737,Centro-Oeste,GO,Goiás,M2026,G33,inside,Degradação Moderada
+102,M2026-E2-P102,-49.471435,-17.750485,Centro-Oeste,GO,Goiás,M2026,G33,inside,Não degradada
+103,M2026-E2-P103,-49.486168,-17.735124,Centro-Oeste,GO,Goiás,M2026,G33,inside,Degradação Moderada
+104,M2026-E2-P104,-49.416189,-17.746802,Centro-Oeste,GO,Goiás,M2026,G33,inside,Degradação Moderada
+105,M2026-E2-P105,-49.481497,-17.736292,Centro-Oeste,GO,Goiás,M2026,G33,inside,Não degradada
+106,M2026-E2-P106,-49.423555,-17.735663,Centro-Oeste,GO,Goiás,M2026,G33,inside,Degradação Moderada
+108,M2026-E2-P108,-49.478532,-17.771776,Centro-Oeste,GO,Goiás,M2026,G33,inside,Não degradada
+112,M2026-E2-P112,-49.431191,-17.760726,Centro-Oeste,GO,Goiás,M2026,G33,outside,Não degradada
+99,M2026-E2-P99,-49.4903,-17.730363,Centro-Oeste,GO,Goiás,M2026,G33,inside,Degradação Baixa
+114,M2041-E3-P114,-49.347378,-13.323228,Centro-Oeste,GO,Goiás,M2041,G28,inside,Degradação Baixa
+115,M2041-E3-P115,-49.32528,-13.347752,Centro-Oeste,GO,Goiás,M2041,G28,inside,Degradação Biológica Severa
+117,M2041-E3-P117,-49.338664,-13.358263,Centro-Oeste,GO,Goiás,M2041,G28,inside,Degradação Moderada
+119,M2041-E3-P119,-49.345581,-13.333829,Centro-Oeste,GO,Goiás,M2041,G28,inside,Degradação Moderada
+120,M2041-E3-P120,-49.34621,-13.384404,Centro-Oeste,GO,Goiás,M2041,G28,inside,Degradação Biológica Severa
+121,M2041-E3-P121,-49.321417,-13.357903,Centro-Oeste,GO,Goiás,M2041,G28,inside,Degradação Biológica Severa
+122,M2041-E3-P122,-49.367141,-13.382158,Centro-Oeste,GO,Goiás,M2041,G28,inside,Degradação Moderada
+124,M2041-E3-P124,-49.346839,-13.379193,Centro-Oeste,GO,Goiás,M2041,G28,outside,Degradação Moderada
+125,M2041-E3-P125,-49.360134,-13.37596,Centro-Oeste,GO,Goiás,M2041,G28,outside,Degradação Moderada
+138,M2109-E3-P138,-49.230687,-13.651652,Centro-Oeste,GO,Goiás,M2109,G29,outside,Degradação Biológica Severa
+127,M2109-E5-P127,-49.244701,-13.662342,Centro-Oeste,GO,Goiás,M2109,G29,inside,Degradação Baixa
+128,M2109-E5-P128,-49.285215,-13.6636,Centro-Oeste,GO,Goiás,M2109,G29,inside,Degradação Baixa
+129,M2109-E5-P129,-49.248114,-13.590747,Centro-Oeste,GO,Goiás,M2109,G29,inside,Degradação Moderada
+130,M2109-E5-P130,-49.283328,-13.668092,Centro-Oeste,GO,Goiás,M2109,G29,inside,Não degradada
+131,M2109-E5-P131,-49.252157,-13.603862,Centro-Oeste,GO,Goiás,M2109,G29,inside,Degradação Biológica Severa
+132,M2109-E5-P132,-49.251258,-13.608264,Centro-Oeste,GO,Goiás,M2109,G29,inside,Degradação Agrícola Severa
+134,M2109-E5-P134,-49.261858,-13.595687,Centro-Oeste,GO,Goiás,M2109,G29,inside,Não degradada
+135,M2109-E5-P135,-49.281172,-13.67447,Centro-Oeste,GO,Goiás,M2109,G29,inside,Degradação Moderada
+136,M2109-E5-P136,-49.286562,-13.678332,Centro-Oeste,GO,Goiás,M2109,G29,inside,Degradação Moderada
+140,M2109-E5-P140,-49.252875,-13.631261,Centro-Oeste,GO,Goiás,M2109,G29,outside,Degradação Baixa
+142,M2148-E1-P142,-49.231945,-17.152477,Centro-Oeste,GO,Goiás,M2148,G33,inside,Degradação Moderada
+143,M2148-E4-P143,-49.244341,-17.126426,Centro-Oeste,GO,Goiás,M2148,G33,inside,Não degradada
+144,M2148-E4-P144,-49.256109,-17.107202,Centro-Oeste,GO,Goiás,M2148,G33,inside,Degradação Moderada
+145,M2148-E4-P145,-49.243623,-17.15625,Centro-Oeste,GO,Goiás,M2148,G33,inside,Degradação Moderada
+146,M2148-E4-P146,-49.238772,-17.116005,Centro-Oeste,GO,Goiás,M2148,G33,inside,Degradação Moderada
+147,M2148-E4-P147,-49.24524,-17.121126,Centro-Oeste,GO,Goiás,M2148,G33,inside,Degradação Moderada
+148,M2148-E4-P148,-49.238951,-17.112232,Centro-Oeste,GO,Goiás,M2148,G33,inside,Não degradada
+149,M2148-E4-P149,-49.260691,-17.151489,Centro-Oeste,GO,Goiás,M2148,G33,outside,Degradação Moderada
+153,M2148-E4-P153,-49.248024,-17.159124,Centro-Oeste,GO,Goiás,M2148,G33,outside,Degradação Moderada
+156,M2166-E4-P156,-49.159271,-12.949978,Centro-Oeste,GO,Goiás,M2166,G28,inside,Degradação Moderada
+157,M2166-E4-P157,-49.152264,-12.952404,Centro-Oeste,GO,Goiás,M2166,G28,inside,Degradação Baixa
+159,M2166-E4-P159,-49.160978,-12.915753,Centro-Oeste,GO,Goiás,M2166,G28,inside,Degradação Moderada
+161,M2166-E4-P161,-49.156396,-12.921951,Centro-Oeste,GO,Goiás,M2166,G28,inside,Degradação Biológica Severa
+162,M2166-E4-P162,-49.151905,-12.95429,Centro-Oeste,GO,Goiás,M2166,G28,inside,Degradação Agrícola Severa
+163,M2166-E4-P163,-49.156756,-12.94917,Centro-Oeste,GO,Goiás,M2166,G28,inside,Degradação Moderada
+164,M2166-E4-P164,-49.154779,-12.948182,Centro-Oeste,GO,Goiás,M2166,G28,inside,Degradação Baixa
+165,M2166-E4-P165,-49.151545,-12.959051,Centro-Oeste,GO,Goiás,M2166,G28,inside,Degradação Baixa
+167,M2166-E4-P167,-49.18128,-12.893834,Centro-Oeste,GO,Goiás,M2166,G28,outside,Degradação Moderada
+168,M2166-E4-P168,-49.227633,-12.933988,Centro-Oeste,GO,Goiás,M2166,G28,outside,Degradação Biológica Severa
+170,M2174-E3-P170,-49.192598,-13.608354,Centro-Oeste,GO,Goiás,M2174,G29,inside,Degradação Biológica Severa
+171,M2174-E3-P171,-49.225207,-13.650754,Centro-Oeste,GO,Goiás,M2174,G29,inside,Degradação Biológica Severa
+172,M2174-E3-P172,-49.225926,-13.65309,Centro-Oeste,GO,Goiás,M2174,G29,inside,Degradação Biológica Severa
+173,M2174-E3-P173,-49.168254,-13.613923,Centro-Oeste,GO,Goiás,M2174,G29,inside,Degradação Biológica Severa
+174,M2174-E3-P174,-49.183076,-13.615001,Centro-Oeste,GO,Goiás,M2174,G29,inside,Degradação Moderada
+177,M2174-E3-P177,-49.181459,-13.614911,Centro-Oeste,GO,Goiás,M2174,G29,inside,Degradação Moderada
+181,M2174-E3-P181,-49.147233,-13.611408,Centro-Oeste,GO,Goiás,M2174,G29,outside,Não degradada
+183,M2174-E3-P183,-49.209487,-13.646712,Centro-Oeste,GO,Goiás,M2174,G29,outside,Degradação Agrícola Severa
+184,M2175-E6-P184,-49.214427,-13.709953,Centro-Oeste,GO,Goiás,M2175,G29,inside,Degradação Moderada
+185,M2175-E6-P185,-49.179663,-13.752713,Centro-Oeste,GO,Goiás,M2175,G29,inside,Degradação Agrícola Severa
+186,M2175-E6-P186,-49.206792,-13.6954,Centro-Oeste,GO,Goiás,M2175,G29,inside,Degradação Moderada
+187,M2175-E6-P187,-49.184244,-13.760169,Centro-Oeste,GO,Goiás,M2175,G29,inside,Degradação Agrícola Severa
+188,M2175-E6-P188,-49.21847,-13.711211,Centro-Oeste,GO,Goiás,M2175,G29,inside,Não degradada
+189,M2175-E6-P189,-49.227094,-13.735825,Centro-Oeste,GO,Goiás,M2175,G29,inside,Degradação Moderada
+190,M2175-E6-P190,-49.218111,-13.721721,Centro-Oeste,GO,Goiás,M2175,G29,inside,Degradação Moderada
+191,M2175-E6-P191,-49.216943,-13.751904,Centro-Oeste,GO,Goiás,M2175,G29,inside,Degradação Moderada
+192,M2175-E6-P192,-49.210205,-13.749838,Centro-Oeste,GO,Goiás,M2175,G29,inside,Degradação Moderada
+193,M2175-E6-P193,-49.216494,-13.712109,Centro-Oeste,GO,Goiás,M2175,G29,inside,Não degradada
+196,M2175-E6-P196,-49.20787,-13.691627,Centro-Oeste,GO,Goiás,M2175,G29,outside,Degradação Moderada
+197,M2175-E6-P197,-49.214248,-13.732321,Centro-Oeste,GO,Goiás,M2175,G29,outside,Degradação Moderada
+198,M2179-E2-P198,-49.160439,-14.077723,Centro-Oeste,GO,Goiás,M2179,G29,inside,Degradação Biológica Severa
+202,M2179-E2-P202,-49.164212,-14.047899,Centro-Oeste,GO,Goiás,M2179,G29,inside,Degradação Biológica Severa
+203,M2179-E2-P203,-49.15415,-14.054367,Centro-Oeste,GO,Goiás,M2179,G29,inside,Degradação Moderada
+204,M2179-E2-P204,-49.179573,-14.051133,Centro-Oeste,GO,Goiás,M2179,G29,inside,Degradação Moderada
+205,M2179-E2-P205,-49.206522,-14.066494,Centro-Oeste,GO,Goiás,M2179,G29,inside,Degradação Biológica Severa
+206,M2179-E2-P206,-49.178674,-14.055805,Centro-Oeste,GO,Goiás,M2179,G29,inside,Degradação Biológica Severa
+208,M2179-E2-P208,-49.190442,-14.104673,Centro-Oeste,GO,Goiás,M2179,G29,outside,Degradação Moderada
+209,M2179-E2-P209,-49.216044,-14.110602,Centro-Oeste,GO,Goiás,M2179,G29,outside,Degradação Moderada
+210,M2179-E2-P210,-49.209487,-14.085898,Centro-Oeste,GO,Goiás,M2179,G29,outside,Degradação Moderada
+211,M2179-E2-P211,-49.174632,-14.123807,Centro-Oeste,GO,Goiás,M2180,G29,outside,Degradação Moderada
+212,M2213-E1-P212,-49.229699,-17.154543,Centro-Oeste,GO,Goiás,M2213,G33,inside,Degradação Baixa
+213,M2213-E1-P213,-49.174812,-17.102441,Centro-Oeste,GO,Goiás,M2213,G33,inside,Não degradada
+214,M2213-E1-P214,-49.22386,-17.107921,Centro-Oeste,GO,Goiás,M2213,G33,inside,Degradação Biológica Severa
+216,M2213-E1-P216,-49.191071,-17.112771,Centro-Oeste,GO,Goiás,M2213,G33,inside,Degradação Moderada
+217,M2213-E1-P217,-49.189814,-17.110076,Centro-Oeste,GO,Goiás,M2213,G33,inside,Degradação Moderada
+219,M2213-E1-P219,-49.21317,-17.116994,Centro-Oeste,GO,Goiás,M2213,G33,inside,Degradação Moderada
+220,M2213-E1-P220,-49.180202,-17.153285,Centro-Oeste,GO,Goiás,M2213,G33,inside,Degradação Moderada
+223,M2213-E1-P223,-49.154779,-17.113131,Centro-Oeste,GO,Goiás,M2213,G33,outside,Degradação Agrícola Severa
+228,M2233-E2-P228,-49.131962,-13.194859,Centro-Oeste,GO,Goiás,M2233,G28,inside,Degradação Biológica Severa
+229,M2233-E2-P229,-49.139059,-13.207795,Centro-Oeste,GO,Goiás,M2233,G28,inside,Degradação Baixa
+230,M2233-E2-P230,-49.139508,-13.208154,Centro-Oeste,GO,Goiás,M2233,G28,inside,Não degradada
+231,M2233-E2-P231,-49.130435,-13.186774,Centro-Oeste,GO,Goiás,M2233,G28,inside,Degradação Moderada
+232,M2233-E2-P232,-49.125854,-13.182822,Centro-Oeste,GO,Goiás,M2233,G28,inside,Degradação Moderada
+233,M2233-E2-P233,-49.130615,-13.184708,Centro-Oeste,GO,Goiás,M2233,G28,inside,Degradação Baixa
+234,M2233-E2-P234,-49.135825,-13.195218,Centro-Oeste,GO,Goiás,M2233,G28,inside,Degradação Moderada
+236,M2233-E2-P236,-49.106989,-13.180396,Centro-Oeste,GO,Goiás,M2233,G28,outside,Degradação Moderada
+237,M2233-E2-P237,-49.056054,-13.168449,Centro-Oeste,GO,Goiás,M2233,G28,outside,Degradação Moderada
+240,M2233-E2-P240,-49.079231,-13.192344,Centro-Oeste,GO,Goiás,M2233,G28,outside,Degradação Agrícola Severa
+242,M2245-E4-P242,-49.121272,-14.293229,Centro-Oeste,GO,Goiás,M2245,G29,inside,Degradação Moderada
+243,M2245-E4-P243,-49.098545,-14.235198,Centro-Oeste,GO,Goiás,M2245,G29,inside,Não degradada
+251,M2245-E4-P251,-49.106989,-14.230078,Centro-Oeste,GO,Goiás,M2245,G29,outside,Degradação Moderada
+253,M2245-E4-P253,-49.118487,-14.304189,Centro-Oeste,GO,Goiás,M2245,G29,outside,Não degradada
+255,M2297-E1-P255,-49.014103,-13.397609,Centro-Oeste,GO,Goiás,M2297,G28,inside,Não degradada
+256,M2297-E1-P256,-49.02129,-13.402011,Centro-Oeste,GO,Goiás,M2297,G28,inside,Degradação Moderada
+257,M2297-E1-P257,-49.043388,-13.380271,Centro-Oeste,GO,Goiás,M2297,G28,inside,Degradação Agrícola Severa
+258,M2297-E1-P258,-48.978799,-13.409646,Centro-Oeste,GO,Goiás,M2297,G28,inside,Degradação Moderada
+259,M2297-E1-P259,-49.048329,-13.395812,Centro-Oeste,GO,Goiás,M2297,G28,inside,Degradação Moderada
+260,M2297-E1-P260,-49.029374,-13.406862,Centro-Oeste,GO,Goiás,M2297,G28,inside,Degradação Baixa
+261,M2297-E1-P261,-49.02632,-13.365359,Centro-Oeste,GO,Goiás,M2297,G28,inside,Degradação Biológica Severa
+262,M2297-E1-P262,-48.990747,-13.409916,Centro-Oeste,GO,Goiás,M2297,G28,inside,Degradação Agrícola Severa
+264,M2297-E1-P264,-49.048778,-13.395633,Centro-Oeste,GO,Goiás,M2297,G28,inside,Degradação Moderada
+265,M2297-E1-P265,-48.966582,-13.323228,Centro-Oeste,GO,Goiás,M2297,G28,outside,Degradação Agrícola Severa
+266,M2297-E1-P266,-49.037549,-13.382877,Centro-Oeste,GO,Goiás,M2297,G28,outside,Degradação Biológica Severa
+267,M2297-E1-P267,-49.024613,-13.409377,Centro-Oeste,GO,Goiás,M2297,G28,outside,Não degradada
+268,M2297-E1-P268,-48.984998,-13.356286,Centro-Oeste,GO,Goiás,M2297,G28,outside,Degradação Moderada
+273,M2347-E1-P273,-49.009073,-17.825674,Centro-Oeste,GO,Goiás,M2347,G33,inside,Degradação Moderada
+269,M2347-E4-P269,-48.986166,-17.852893,Centro-Oeste,GO,Goiás,M2347,G33,inside,Não degradada
+283,M2355-E5-P283,-48.890405,-12.939468,Centro-Oeste,GO,Goiás,M2355,G28,outside,Não degradada
+286,M2355-E5-P286,-48.903071,-12.941355,Centro-Oeste,GO,Goiás,M2355,G28,outside,Degradação Moderada
+290,M2355-E5-P290,-48.873696,-12.89563,Centro-Oeste,GO,Goiás,M2355,G28,outside,Degradação Moderada
+292,M2355-E5-P292,-48.875403,-12.910093,Centro-Oeste,GO,Goiás,M2355,G28,outside,Degradação Moderada
+296,M2355-E5-P296,-48.877829,-12.937312,Centro-Oeste,GO,Goiás,M2355,G28,outside,Degradação Biológica Severa
+298,M2484-E6-P298,-48.698974,-13.36518,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Agrícola Severa
+299,M2484-E6-P299,-48.698525,-13.405155,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Moderada
+300,M2484-E6-P300,-48.692776,-13.359431,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Baixa
+301,M2484-E6-P301,-48.690979,-13.365898,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Agrícola Severa
+302,M2484-E6-P302,-48.699333,-13.331942,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Moderada
+303,M2484-E6-P303,-48.705262,-13.367965,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Baixa
+304,M2484-E6-P304,-48.706161,-13.366437,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Baixa
+305,M2484-E6-P305,-48.724037,-13.335266,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Moderada
+306,M2484-E6-P306,-48.697267,-13.332212,Centro-Oeste,GO,Goiás,M2484,G28,inside,Degradação Agrícola Severa
+307,M2484-E6-P307,-48.766258,-13.409107,Centro-Oeste,GO,Goiás,M2484,G28,outside,Degradação Moderada
+309,M2484-E6-P309,-48.715234,-13.322959,Centro-Oeste,GO,Goiás,M2484,G28,outside,Degradação Biológica Severa
+311,M2548-E1-P311,-48.663221,-13.694951,Centro-Oeste,GO,Goiás,M2548,G29,inside,Degradação Moderada
+312,M2548-E1-P312,-48.602765,-13.717948,Centro-Oeste,GO,Goiás,M2548,G29,inside,Degradação Moderada
+313,M2548-E1-P313,-48.667892,-13.718128,Centro-Oeste,GO,Goiás,M2548,G29,inside,Degradação Moderada
+314,M2548-E1-P314,-48.630343,-13.722799,Centro-Oeste,GO,Goiás,M2548,G29,inside,Degradação Baixa
+315,M2548-E1-P315,-48.66942,-13.715074,Centro-Oeste,GO,Goiás,M2548,G29,inside,Degradação Baixa
+316,M2548-E1-P316,-48.675079,-13.707348,Centro-Oeste,GO,Goiás,M2548,G29,inside,Degradação Moderada
+317,M2548-E1-P317,-48.604382,-13.722619,Centro-Oeste,GO,Goiás,M2548,G29,inside,Degradação Moderada
+319,M2548-E1-P319,-48.666725,-13.702317,Centro-Oeste,GO,Goiás,M2548,G29,inside,Degradação Agrícola Severa
+320,M2548-E1-P320,-48.664838,-13.697287,Centro-Oeste,GO,Goiás,M2548,G29,inside,Não degradada
+321,M2548-E1-P321,-48.640673,-13.744718,Centro-Oeste,GO,Goiás,M2548,G29,outside,Degradação Biológica Severa
+323,M2548-E1-P323,-48.643099,-13.748581,Centro-Oeste,GO,Goiás,M2548,G29,outside,Degradação Agrícola Severa
+325,M2586-E2-P325,-48.660886,-17.174755,Centro-Oeste,GO,Goiás,M2586,G33,inside,Degradação Baixa
+327,M2586-E2-P327,-48.678852,-17.164245,Centro-Oeste,GO,Goiás,M2586,G33,inside,Degradação Agrícola Severa
+328,M2586-E2-P328,-48.628816,-17.135499,Centro-Oeste,GO,Goiás,M2586,G33,inside,Degradação Baixa
+330,M2586-E2-P330,-48.661065,-17.171791,Centro-Oeste,GO,Goiás,M2586,G33,inside,Degradação Agrícola Severa
+332,M2586-E2-P332,-48.687296,-17.178169,Centro-Oeste,GO,Goiás,M2586,G33,inside,Degradação Moderada
+333,M2586-E2-P333,-48.635463,-17.126066,Centro-Oeste,GO,Goiás,M2586,G33,inside,Degradação Moderada
+334,M2586-E2-P334,-48.648848,-17.131097,Centro-Oeste,GO,Goiás,M2586,G33,inside,Não degradada
+335,M2586-E2-P335,-48.677145,-17.123461,Centro-Oeste,GO,Goiás,M2586,G33,outside,Degradação Agrícola Severa
+337,M2586-E2-P337,-48.603932,-17.105944,Centro-Oeste,GO,Goiás,M2586,G33,outside,Degradação Baixa
+338,M2586-E2-P338,-48.625133,-17.109987,Centro-Oeste,GO,Goiás,M2586,G33,outside,Degradação Moderada
+339,M2653-E3-P339,-48.534942,-17.877597,Centro-Oeste,GO,Goiás,M2653,G40,inside,Degradação Biológica Severa
+340,M2653-E3-P340,-48.586595,-17.863583,Centro-Oeste,GO,Goiás,M2653,G40,inside,Degradação Moderada
+342,M2653-E3-P342,-48.589469,-17.845887,Centro-Oeste,GO,Goiás,M2653,G40,inside,Degradação Moderada
+343,M2653-E3-P343,-48.569886,-17.882897,Centro-Oeste,GO,Goiás,M2653,G40,inside,Não degradada
+344,M2653-E3-P344,-48.557849,-17.885233,Centro-Oeste,GO,Goiás,M2653,G40,inside,Degradação Moderada
+345,M2653-E3-P345,-48.534313,-17.890623,Centro-Oeste,GO,Goiás,M2653,G40,inside,Degradação Biológica Severa
+347,M2653-E3-P347,-48.536649,-17.890084,Centro-Oeste,GO,Goiás,M2653,G40,inside,Degradação Baixa
+348,M2653-E3-P348,-48.550303,-17.902031,Centro-Oeste,GO,Goiás,M2653,G40,inside,Não degradada
+350,M2653-E3-P350,-48.524072,-17.85981,Centro-Oeste,GO,Goiás,M2653,G40,outside,Degradação Biológica Severa
+352,M2653-E3-P352,-48.528743,-17.866099,Centro-Oeste,GO,Goiás,M2653,G40,outside,Degradação Biológica Severa
+353,M2765-E3-P353,-48.330036,-17.191733,Centro-Oeste,GO,Goiás,M2765,G40,inside,Degradação Moderada
+355,M2765-E3-P355,-48.337492,-17.233685,Centro-Oeste,GO,Goiás,M2765,G40,inside,Degradação Moderada
+358,M2765-E3-P358,-48.333629,-17.223713,Centro-Oeste,GO,Goiás,M2765,G40,inside,Degradação Moderada
+359,M2765-E3-P359,-48.332102,-17.252459,Centro-Oeste,GO,Goiás,M2765,G40,inside,Degradação Moderada
+360,M2765-E3-P360,-48.357165,-17.219132,Centro-Oeste,GO,Goiás,M2765,G40,inside,Degradação Baixa
+361,M2765-E3-P361,-48.419508,-17.194249,Centro-Oeste,GO,Goiás,M2765,G40,outside,Degradação Baixa
+364,M2765-E3-P364,-48.33839,-17.19883,Centro-Oeste,GO,Goiás,M2765,G40,outside,Não degradada
+365,M2765-E3-P365,-48.366418,-17.264317,Centro-Oeste,GO,Goiás,M2765,G40,outside,Degradação Moderada
+367,M2765-E3-P367,-48.379713,-17.194877,Centro-Oeste,GO,Goiás,M2765,G40,outside,Não degradada
+369,M2828-E4-P369,-48.317729,-17.593101,Centro-Oeste,GO,Goiás,M2828,G40,outside,Degradação Moderada
+372,M2828-E4-P372,-48.305692,-17.586902,Centro-Oeste,GO,Goiás,M2828,G40,outside,Não degradada
+375,M2828-E4-P375,-48.254937,-17.590945,Centro-Oeste,GO,Goiás,M2828,G40,outside,Não degradada
+377,M2828-E4-P377,-48.31737,-17.605947,Centro-Oeste,GO,Goiás,M2828,G40,outside,Degradação Baixa
+378,M2828-E4-P378,-48.325275,-17.612235,Centro-Oeste,GO,Goiás,M2828,G40,outside,Degradação Moderada
+379,M2828-E4-P379,-48.265627,-17.584028,Centro-Oeste,GO,Goiás,M2828,G40,outside,Degradação Moderada
+381,M2828-E4-P381,-48.314765,-17.609989,Centro-Oeste,GO,Goiás,M2828,G40,outside,Degradação Moderada
+382,M2940-E5-P382,-48.116057,-17.696317,Centro-Oeste,GO,Goiás,M2940,G40,inside,Degradação Baixa
+383,M2940-E5-P383,-48.1201,-17.668829,Centro-Oeste,GO,Goiás,M2940,G40,inside,Degradação Moderada
+384,M2940-E5-P384,-48.134024,-17.708085,Centro-Oeste,GO,Goiás,M2940,G40,inside,Degradação Baixa
+385,M2940-E5-P385,-48.120818,-17.679069,Centro-Oeste,GO,Goiás,M2940,G40,inside,Degradação Biológica Severa
+387,M2940-E5-P387,-48.144983,-17.646191,Centro-Oeste,GO,Goiás,M2940,G40,inside,Não degradada
+389,M2940-E5-P389,-48.102762,-17.681944,Centro-Oeste,GO,Goiás,M2940,G40,inside,Não degradada
+390,M2940-E5-P390,-48.125759,-17.654456,Centro-Oeste,GO,Goiás,M2940,G40,inside,Degradação Moderada
+391,M2940-E5-P391,-48.114081,-17.69497,Centro-Oeste,GO,Goiás,M2940,G40,inside,Degradação Moderada
+394,M2940-E5-P394,-48.067818,-17.649694,Centro-Oeste,GO,Goiás,M2940,G40,outside,Degradação Baixa
+397,M2990-E5-P397,-48.041318,-17.41766,Centro-Oeste,GO,Goiás,M2990,G40,inside,Degradação Moderada
+400,M2990-E5-P400,-48.042575,-17.429428,Centro-Oeste,GO,Goiás,M2990,G40,inside,Degradação Moderada
+401,M2990-E5-P401,-48.026495,-17.431314,Centro-Oeste,GO,Goiás,M2990,G40,inside,Degradação Moderada
+402,M2990-E5-P402,-48.042126,-17.431673,Centro-Oeste,GO,Goiás,M2990,G40,inside,Degradação Moderada
+404,M2990-E5-P404,-48.032694,-17.427451,Centro-Oeste,GO,Goiás,M2990,G40,inside,Não degradada
+405,M2990-E5-P405,-48.046707,-17.456197,Centro-Oeste,GO,Goiás,M2990,G40,inside,Não degradada
+408,M2990-E5-P408,-48.04527,-17.400053,Centro-Oeste,GO,Goiás,M2990,G40,outside,Degradação Baixa
+410,M3096-E5-P410,-47.813145,-17.252819,Centro-Oeste,GO,Goiás,M3096,G40,inside,Degradação Baixa
+413,M3096-E5-P413,-47.817817,-17.250663,Centro-Oeste,GO,Goiás,M3096,G40,inside,Não degradada
+416,M3096-E5-P416,-47.813505,-17.250932,Centro-Oeste,GO,Goiás,M3096,G40,inside,Não degradada
+418,M3096-E5-P418,-47.816829,-17.247788,Centro-Oeste,GO,Goiás,M3096,G40,inside,Não degradada
+419,M3096-E5-P419,-47.816649,-17.253537,Centro-Oeste,GO,Goiás,M3096,G40,inside,Degradação Moderada
+428,M3281-E1-P428,-47.499005,-14.046103,Centro-Oeste,GO,Goiás,M3281,G43,inside,Degradação Baixa
+437,M3281-E1-P437,-47.499094,-14.045294,Centro-Oeste,GO,Goiás,M3281,G43,outside,Degradação Moderada
+427,M3281-E2-P427,-47.472684,-14.076915,Centro-Oeste,GO,Goiás,M3281,G43,inside,Degradação Moderada
+424,M3281-E3-P424,-47.47457,-14.077813,Centro-Oeste,GO,Goiás,M3281,G43,inside,Degradação Moderada
+429,M3281-E3-P429,-47.47502,-14.077634,Centro-Oeste,GO,Goiás,M3281,G43,inside,Degradação Baixa
+426,M3281-E4-P426,-47.468911,-14.087246,Centro-Oeste,GO,Goiás,M3281,G43,inside,Degradação Moderada
+425,M3281-E5-P425,-47.519037,-14.088413,Centro-Oeste,GO,Goiás,M3281,G43,inside,Degradação Moderada
+430,M3281-E5-P430,-47.515983,-14.097397,Centro-Oeste,GO,Goiás,M3281,G43,inside,Degradação Agrícola Severa
+438,M3537-E1-P438,-46.89372,-13.777956,Centro-Oeste,GO,Goiás,M3537,G43,inside,Degradação Agrícola Severa
+450,M3537-E1-P450,-46.945193,-13.805175,Centro-Oeste,GO,Goiás,M3537,G43,outside,Degradação Baixa
+452,M3537-E1-P452,-46.940522,-13.787927,Centro-Oeste,GO,Goiás,M3537,G43,outside,Degradação Moderada
+439,M3537-E2-P439,-46.932527,-13.854312,Centro-Oeste,GO,Goiás,M3537,G43,inside,Degradação Biológica Severa
+442,M3537-E2-P442,-46.931179,-13.858085,Centro-Oeste,GO,Goiás,M3537,G43,inside,Degradação Agrícola Severa
+444,M3537-E2-P444,-46.928395,-13.857097,Centro-Oeste,GO,Goiás,M3537,G43,inside,Degradação Baixa
+445,M3537-E2-P445,-46.93109,-13.851707,Centro-Oeste,GO,Goiás,M3537,G43,inside,Degradação Moderada
+446,M3537-E2-P446,-46.932347,-13.854043,Centro-Oeste,GO,Goiás,M3537,G43,inside,Degradação Moderada
+447,M3537-E2-P447,-46.905218,-13.774093,Centro-Oeste,GO,Goiás,M3537,G43,outside,Degradação Moderada
+448,M3537-E5-P448,-46.901445,-13.856019,Centro-Oeste,GO,Goiás,M3537,G43,outside,Degradação Moderada
+453,M3539-E3-P453,-46.913662,-13.995258,Centro-Oeste,GO,Goiás,M3539,G43,inside,Degradação Baixa
+454,M3539-E3-P454,-46.890665,-13.994539,Centro-Oeste,GO,Goiás,M3539,G43,inside,Degradação Agrícola Severa
+456,M3539-E3-P456,-46.910788,-14.004511,Centro-Oeste,GO,Goiás,M3539,G43,inside,Não degradada
+457,M3539-E3-P457,-46.906296,-13.998312,Centro-Oeste,GO,Goiás,M3539,G43,inside,Degradação Baixa
+458,M3539-E3-P458,-46.912405,-14.001007,Centro-Oeste,GO,Goiás,M3539,G43,inside,Degradação Moderada
+459,M3539-E3-P459,-46.911686,-13.996246,Centro-Oeste,GO,Goiás,M3539,G43,inside,Degradação Moderada
+460,M3539-E3-P460,-46.912944,-13.999031,Centro-Oeste,GO,Goiás,M3539,G43,inside,Não degradada
+466,M3539-E3-P466,-46.927407,-13.956181,Centro-Oeste,GO,Goiás,M3539,G43,outside,Degradação Moderada
+464,M3539-E4-P464,-46.939354,-14.019602,Centro-Oeste,GO,Goiás,M3539,G43,outside,Degradação Moderada
+465,M3539-E4-P465,-46.916627,-14.033257,Centro-Oeste,GO,Goiás,M3539,G43,outside,Degradação Moderada
+477,M3540-E1-P477,-46.891654,-14.11177,Centro-Oeste,GO,Goiás,M3540,G43,outside,Degradação Moderada
+470,M3540-E4-P470,-46.938097,-14.04197,Centro-Oeste,GO,Goiás,M3540,G43,outside,Não degradada
+472,M3540-E4-P472,-46.977173,-14.054547,Centro-Oeste,GO,Goiás,M3540,G43,outside,Não degradada
+475,M3540-E4-P475,-46.963249,-14.054008,Centro-Oeste,GO,Goiás,M3540,G43,outside,Não degradada
+476,M3540-E4-P476,-46.915998,-14.051582,Centro-Oeste,GO,Goiás,M3540,G43,outside,Degradação Moderada
+479,M3540-E4-P479,-46.962351,-14.054547,Centro-Oeste,GO,Goiás,M3540,G43,outside,Não degradada
+488,M3569-E2-P488,-46.848984,-13.76502,Centro-Oeste,GO,Goiás,M3569,G43,inside,Degradação Baixa
+489,M3569-E2-P489,-46.857158,-13.762145,Centro-Oeste,GO,Goiás,M3569,G43,inside,Degradação Agrícola Severa
+482,M3569-E6-P482,-46.833443,-13.722619,Centro-Oeste,GO,Goiás,M3569,G43,inside,Degradação Moderada
+491,M3569-E6-P491,-46.859763,-13.684082,Centro-Oeste,GO,Goiás,M3569,G43,outside,Degradação Moderada
+493,M3569-E6-P493,-46.863267,-13.714804,Centro-Oeste,GO,Goiás,M3569,G43,outside,Degradação Moderada
+497,M3571-E5-P497,-46.88833,-13.931298,Centro-Oeste,GO,Goiás,M3571,G43,inside,Degradação Biológica Severa
+499,M3571-E5-P499,-46.880604,-13.936598,Centro-Oeste,GO,Goiás,M3571,G43,inside,Degradação Moderada
+502,M3571-E5-P502,-46.887162,-13.931029,Centro-Oeste,GO,Goiás,M3571,G43,inside,Degradação Baixa
+503,M3571-E5-P503,-46.888599,-13.869045,Centro-Oeste,GO,Goiás,M3571,G43,inside,Degradação Biológica Severa
+504,M3571-E5-P504,-46.884108,-13.934981,Centro-Oeste,GO,Goiás,M3571,G43,inside,Degradação Moderada
+506,M3571-E5-P506,-46.882581,-13.934622,Centro-Oeste,GO,Goiás,M3571,G43,inside,Degradação Baixa
+508,M3571-E5-P508,-46.885096,-13.885574,Centro-Oeste,GO,Goiás,M3571,G43,outside,Degradação Moderada
+665,M368-E4-P1,-52.014297,-16.76719,Centro-Oeste,GO,Goiás,M368,G8,inside,Degradação Biológica Severa
+654,M368-E4-P2,-52.007918,-16.809231,Centro-Oeste,GO,Goiás,M368,G8,inside,Não degradada
+652,M368-E4-P3,-52.006212,-16.810937,Centro-Oeste,GO,Goiás,M368,G8,inside,Degradação Moderada
+662,M368-E4-P5,-51.95905,-16.784527,Centro-Oeste,GO,Goiás,M368,G8,inside,Degradação Biológica Severa
+656,M368-E4-P6,-51.958421,-16.80402,Centro-Oeste,GO,Goiás,M368,G8,inside,Degradação Agrícola Severa
+653,M368-E4-P7,-51.950067,-16.809949,Centro-Oeste,GO,Goiás,M368,G8,outside,Degradação Agrícola Severa
+658,M368-E4-P8,-51.935784,-16.799439,Centro-Oeste,GO,Goiás,M368,G8,outside,Não degradada
+627,M369-E3-P1,-51.943958,-16.869148,Centro-Oeste,GO,Goiás,M369,G8,outside,Degradação Agrícola Severa
+635,M369-E3-P2,-51.936862,-16.85738,Centro-Oeste,GO,Goiás,M369,G8,inside,Degradação Agrícola Severa
+637,M369-E3-P3,-51.933807,-16.856841,Centro-Oeste,GO,Goiás,M369,G8,inside,Degradação Moderada
+636,M369-E3-P4,-51.932101,-16.85738,Centro-Oeste,GO,Goiás,M369,G8,inside,Degradação Biológica Severa
+634,M369-E3-P5,-51.932101,-16.858638,Centro-Oeste,GO,Goiás,M369,G8,inside,Degradação Biológica Severa
+633,M369-E3-P6,-51.931382,-16.858728,Centro-Oeste,GO,Goiás,M369,G8,inside,Degradação Moderada
+631,M369-E3-P7,-51.930663,-16.859626,Centro-Oeste,GO,Goiás,M369,G8,inside,Degradação Moderada
+619,M445-E1-P1,-51.810648,-16.915591,Centro-Oeste,GO,Goiás,M445,G8,inside,Degradação Baixa
+622,M445-E1-P2,-51.815769,-16.910291,Centro-Oeste,GO,Goiás,M445,G8,inside,Degradação Biológica Severa
+630,M445-E1-P5,-51.834184,-16.863669,Centro-Oeste,GO,Goiás,M445,G8,outside,Degradação Agrícola Severa
+632,M445-E1-P6,-51.799599,-16.858818,Centro-Oeste,GO,Goiás,M445,G8,outside,Degradação Agrícola Severa
+626,M445-E1-P7,-51.782262,-16.882174,Centro-Oeste,GO,Goiás,M445,G8,inside,Degradação Moderada
+621,M445-E1-P8,-51.79933,-16.910471,Centro-Oeste,GO,Goiás,M445,G8,inside,Degradação Moderada
+645,M535-E6-P2,-51.582117,-16.838785,Centro-Oeste,GO,Goiás,M535,G8,inside,Degradação Moderada
+648,M535-E6-P6,-51.642753,-16.833036,Centro-Oeste,GO,Goiás,M535,G8,inside,Degradação Baixa
+649,M535-E6-P7,-51.643382,-16.832587,Centro-Oeste,GO,Goiás,M535,G8,inside,Degradação Baixa
+644,M535-E6-P8,-51.645897,-16.839863,Centro-Oeste,GO,Goiás,M535,G8,inside,Não degradada
+640,M535-E6-P9,-51.659103,-16.850643,Centro-Oeste,GO,Goiás,M535,G8,inside,Degradação Moderada
+694,M576-E5-P10,-51.542861,-16.385585,Centro-Oeste,GO,Goiás,M576,G8,inside,Degradação Baixa
+687,M576-E5-P2,-51.491118,-16.447299,Centro-Oeste,GO,Goiás,M576,G8,outside,Degradação Biológica Severa
+690,M576-E5-P4,-51.533428,-16.407055,Centro-Oeste,GO,Goiás,M576,G8,inside,Degradação Moderada
+691,M576-E5-P5,-51.541693,-16.402653,Centro-Oeste,GO,Goiás,M576,G8,inside,Degradação Agrícola Severa
+693,M576-E5-P8,-51.568013,-16.394568,Centro-Oeste,GO,Goiás,M576,G8,inside,Degradação Moderada
+695,M576-E5-P9,-51.541513,-16.384597,Centro-Oeste,GO,Goiás,M576,G8,inside,Degradação Baixa
+678,M625-E2-P1,-51.39374,-16.59112,Centro-Oeste,GO,Goiás,M625,G8,outside,Degradação Moderada
+681,M625-E2-P2,-51.39401,-16.583843,Centro-Oeste,GO,Goiás,M625,G8,outside,Degradação Moderada
+726,M713-E5-P2,-51.220096,-15.926816,Centro-Oeste,GO,Goiás,M713,G15,inside,Degradação Moderada
+729,M713-E5-P3,-51.253962,-15.923851,Centro-Oeste,GO,Goiás,M713,G15,inside,Degradação Baixa
+735,M713-E5-P4,-51.245428,-15.896453,Centro-Oeste,GO,Goiás,M713,G15,outside,Degradação Baixa
+738,M713-E5-P5,-51.280373,-15.857376,Centro-Oeste,GO,Goiás,M713,G15,outside,Não degradada
+730,M713-E5-P7,-51.282349,-15.920707,Centro-Oeste,GO,Goiás,M713,G15,inside,Degradação Baixa
+731,M713-E5-P8,-51.296722,-15.920617,Centro-Oeste,GO,Goiás,M713,G15,inside,Degradação Baixa
+722,M714-E6-P3,-51.23411,-15.934092,Centro-Oeste,GO,Goiás,M714,G15,inside,Degradação Moderada
+721,M714-E6-P4,-51.234559,-15.936248,Centro-Oeste,GO,Goiás,M714,G15,inside,Degradação Moderada
+720,M714-E6-P5,-51.234559,-15.936338,Centro-Oeste,GO,Goiás,M714,G15,inside,Degradação Moderada
+719,M714-E6-P6,-51.280463,-15.937506,Centro-Oeste,GO,Goiás,M714,G15,inside,Degradação Moderada
+714,M714-E6-P7,-51.234649,-16.019522,Centro-Oeste,GO,Goiás,M714,G15,inside,Degradação Biológica Severa
+715,M714-E6-P8,-51.220006,-16.019342,Centro-Oeste,GO,Goiás,M714,G15,inside,Degradação Biológica Severa
+718,M714-E6-P9,-51.278486,-15.943973,Centro-Oeste,GO,Goiás,M714,G15,outside,Degradação Agrícola Severa
+740,M763-E4-P1,-51.124785,-15.843811,Centro-Oeste,GO,Goiás,M763,G15,outside,Degradação Biológica Severa
+739,M763-E4-P10,-51.172755,-15.851088,Centro-Oeste,GO,Goiás,M763,G15,outside,Degradação Moderada
+733,M763-E4-P2,-51.122449,-15.911365,Centro-Oeste,GO,Goiás,M763,G15,inside,Degradação Biológica Severa
+732,M763-E4-P3,-51.127031,-15.915227,Centro-Oeste,GO,Goiás,M763,G15,inside,Não degradada
+728,M763-E4-P4,-51.131702,-15.924031,Centro-Oeste,GO,Goiás,M763,G15,inside,Degradação Moderada
+727,M763-E4-P5,-51.134936,-15.926546,Centro-Oeste,GO,Goiás,M763,G15,inside,Degradação Moderada
+723,M763-E4-P6,-51.141673,-15.928163,Centro-Oeste,GO,Goiás,M763,G15,inside,Não degradada
+725,M763-E4-P7,-51.149488,-15.926905,Centro-Oeste,GO,Goiás,M763,G15,inside,Degradação Moderada
+734,M763-E4-P8,-51.172575,-15.911275,Centro-Oeste,GO,Goiás,M763,G15,inside,Degradação Baixa
+580,M833-E2-P1,-51.111041,-17.519439,Centro-Oeste,GO,Goiás,M833,G17,inside,Degradação Baixa
+582,M833-E2-P2,-51.103315,-17.510635,Centro-Oeste,GO,Goiás,M833,G17,inside,Degradação Moderada
+583,M833-E2-P3,-51.098734,-17.488267,Centro-Oeste,GO,Goiás,M833,G17,outside,Degradação Agrícola Severa
+584,M833-E2-P4,-51.098105,-17.481799,Centro-Oeste,GO,Goiás,M833,G17,outside,Degradação Agrícola Severa
+745,M937-E2-P1,-50.927335,-15.680587,Centro-Oeste,GO,Goiás,M937,G15,outside,Degradação Moderada
+744,M937-E2-P4,-50.857446,-15.689301,Centro-Oeste,GO,Goiás,M937,G15,inside,Degradação Moderada
+743,M937-E2-P5,-50.870112,-15.716789,Centro-Oeste,GO,Goiás,M937,G15,inside,Degradação Biológica Severa
+742,M937-E2-P6,-50.884306,-15.733139,Centro-Oeste,GO,Goiás,M937,G15,inside,Degradação Moderada
