@@ -275,6 +275,12 @@ elif section == "Análise Descritiva":
     fig = px.scatter(dados, x=x_col, y=y_col, color=color_col)
     st.plotly_chart(fig)
 
+    st.markdown(f"""
+        
+        <h4 style='text-align: center;'>Correlação entre os diferentes escores que caracterizam as pastagens</h4>""", unsafe_allow_html=True)
+    # mostrando imagem salva
+    st.image("correlation.jpg")
+
 
 ###################################### SEÇÃO: "Análise de Discordância entre Avaliadores"
 elif section == "Análise de Discordância entre Avaliadores":
@@ -301,3 +307,10 @@ elif section == "Análise de Discordância entre Avaliadores":
     x_col = st.selectbox("Variável do eixo x:", ["CLASS_DED", "y_pred_class"])
     fig = px.box(dados, x=x_col, y=y_col)
     st.plotly_chart(fig)
+
+
+    st.markdown(f"""
+        
+        <h4 style='text-align: center;'>Evolução temporal do desvio-padrão entre os valores de escore dos avaliadores</h4>""", unsafe_allow_html=True)
+    # mostrando imagem salva
+    st.image("discordancia_temporal.jpg")
