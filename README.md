@@ -17,3 +17,5 @@ As seções incluídas no aplicativo web foram:
 - **Análise de Discordância entre Avaliadores**: inclui formas de visualização (boxplots principalmente) que permitem analisar quais escores apresentaram as maiores diferenças (diferença entre avaliação máxima e mínima) para os diferentes escores, destrinchando se há relação com as classes de degradação.
 
 O aplicativo web pode ser acessado pelo seguinte site: [https://datathonengopevi.streamlit.app/](https://datathonengopevi.streamlit.app/).
+
+### FOMOS CAMPÕES!!!! 🎉🎉🎉🎉🚀🚀
