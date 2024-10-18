@@ -1,5 +1,7 @@
 # Equipe Embrapeiros: Datathon, VI ENGOPE
 
+Datas em que o evento ocorreu: 15, 16 e 17 de Outubro. Este foi o primeiro Datathon realizado pelo Encontro Goiano de Probabilidade e Estatística (IME-UFG). Foi um evento incrível e sou extremamente grato pela experiência!
+
 ### 🎯 Motivação
 
 A motivação do que preparamos para o Datathon do VI ENGOPE foi de atender ao objetivo geral de propor uma classificação de níveis de degradação (mostrando também um mapa temático para as mesmas) para as pastagens localizadas no estado de Goiás assim como de fornecer uma plataforma interativa com o qual o público possa analisar e explorar os dados disponíveis.
@@ -19,3 +21,10 @@ As seções incluídas no aplicativo web foram:
 O aplicativo web pode ser acessado pelo seguinte site: [https://datathonengopevi.streamlit.app/](https://datathonengopevi.streamlit.app/).
 
 ### FOMOS CAMPÕES!!!! 🎉🎉🎉🎉🚀🚀
+
+### 🧙‍♂️ Equipe Embrapeiros
+
+- Carlos Eduardo Gonçalves de Oliveira ([@linkedin](https://www.linkedin.com/in/cego669/))
+- Luis Davi Araújo Pereira
+- Paulo Augusto de Oliveira Gonçalves
+- Felipe Waks Andrade
