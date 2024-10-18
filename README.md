@@ -1,6 +1,6 @@
 # Equipe Embrapeiros: Datathon, VI ENGOPE
 
-Datas em que o evento ocorreu: 15, 16 e 17 de Outubro. Este foi o primeiro Datathon realizado pelo Encontro Goiano de Probabilidade e Estatística (IME-UFG). Foi um evento incrível e sou extremamente grato pela experiência!
+Datas em que o evento ocorreu: 15, 16 e 17 de Outubro de 2024. Este foi o primeiro Datathon realizado pelo Encontro Goiano de Probabilidade e Estatística (IME-UFG). Foi um evento incrível e sou extremamente grato pela experiência!
 
 ### 🎯 Motivação
 
